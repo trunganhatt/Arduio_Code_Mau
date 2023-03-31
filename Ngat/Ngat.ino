@@ -25,7 +25,7 @@ ISR(INT1_vect){// NGAT NGOAI Pin3
     digitalWrite(Led_XL, HIGH);
   }
 
-
+dfgdfgdfgdfgdf
 //######################################################################
                              (---Dinh thoi Timer 2---)
   TCCR1A = 0;
